@@ -1,1 +1,27 @@
-h1
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 75px;
+  text-align: center;
+  background-color: #66b6d2;
+  border: dotted black 5px;
+  padding: 20px;
+  margin: 30px;
+}
+
+.aboutmephoto {
+  width: 350px;
+  height: 250px;
+  padding: 20px;
+  margin: 40px;
+}
+  
+.aboutme {
+  float: left;
+  width: 500px;
+  background-color: #66b6d2;
+  margin: 30px; 
+  
+}
