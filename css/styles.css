@@ -35,3 +35,9 @@ h1 {
   margin-top: 60px; 
   text-align: left;
 }
+
+.desc {
+  font-style: italic;
+  color:#f3cfb4;  
+
+}
