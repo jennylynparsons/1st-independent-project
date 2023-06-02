@@ -1,5 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
 }
 
 h1 {
@@ -22,22 +23,34 @@ h1 {
 
 .aboutme {
   float: left;
-  width: 40%;
+  width: 35%;
   background-color: #66b6d2;
   margin: 30px;
   text-align: center;
+  padding: 20px;  
 }
 
 .projects {
   background-color: #66b6d2;
-  width: 55%;  
+  width: 50%;  
   margin-left: 43%;
   margin-top: 60px; 
   text-align: left;
+  padding: 20px;
+
 }
 
 .desc {
   font-style: italic;
   color:#f3cfb4;  
+}
 
+h2 {
+  font-size:40px; 
+  font-weight:lighter;
+  text-align: center;
+}
+
+.interests {
+  text-align: left;
 }
