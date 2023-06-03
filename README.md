@@ -4,6 +4,10 @@
 
 #### _Landing Page to house a portfolio_
 
+## GITHUB Pages
+
+* _https://github.com/jennylynparsons/1st-independent-project.git
+
 ## Technologies Used
 
 * _HTML_
