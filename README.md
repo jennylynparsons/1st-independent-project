@@ -22,7 +22,7 @@ _Webpage to view Jenny's porfolio page. Includes about me section, completed pro
 
 * _Clone repository to your desktop_
 * _Open top level directory_ 
-* _Open in VS Code to make changes_
+* _Open in preferred text editor to make changes_
 
 ## Known Bugs
 
@@ -32,4 +32,4 @@ _Webpage to view Jenny's porfolio page. Includes about me section, completed pro
 
 _If there are issues with the code, please contact me or make a contribution to the code._
 
-Copyright (c) _6/2/2023_ _Jenny Parsons_
+Copyright (c) _6/3/2023_ _Jenny Parsons_
