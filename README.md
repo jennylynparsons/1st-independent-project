@@ -32,4 +32,6 @@ _Webpage to view Jenny's porfolio page. Includes about me section, completed pro
 
 _If there are issues with the code, please contact me or make a contribution to the code._
 
+MIT
+
 Copyright (c) _6/3/2023_ _Jenny Parsons_
