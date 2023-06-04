@@ -6,7 +6,7 @@
 
 ## GITHUB Pages
 
-* _https://github.com/jennylynparsons/1st-independent-project.git
+* _https://github.com/jennylynparsons/1st-independent-project.git_
 
 ## Technologies Used
 
