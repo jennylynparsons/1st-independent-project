@@ -21,7 +21,7 @@ _Webpage to view Jenny's porfolio page. Includes About Me, Completed Projects, E
 ## Setup/Installation Requirements
 
 * _Clone repository to your desktop_
-* _Open top level directory_ 
+* _Navigate to top level directory_ 
 * _Open index.html in your browser_
 
 ## Known Bugs
